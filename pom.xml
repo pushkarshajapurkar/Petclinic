@@ -95,7 +95,7 @@
         <sonar.projectVersion>5.3.13</sonar.projectVersion>
 
          <!--  Integrate SonarQube Token -->
-        <sonar.login>squ_a0d437c518b050aa8131d64ed8bc9dfa1b08658d</sonar.login>
+        <sonar.login>c3F1X2EwZDQzN2M1MThiMDUwYWE4MTMxZDY0ZWQ4YmM5ZGZhMWIwODY1OGQ=</sonar.login>
 
 
     </properties>
